@@ -1,0 +1,9 @@
+title = "Ace Combat - Assault Horizon Legacy"
+description = "Ace Combat: Assault Horizon Legacy is an action video game for the Nintendo 3DS, developed by Access Games and published by Namco Bandai Games and it is a remake of Ace Combat 2. Despite the game's international title outside Japan, it is not a direct sequel to the Ace Combat: Assault Horizon and has little relation to the game. The original Japanese version features compatibility with the Circle Pad Pro accessory."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000006CC00"
+region = "eur"
+release_date = "2011-12-02"
